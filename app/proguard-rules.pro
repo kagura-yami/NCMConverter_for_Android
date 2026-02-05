@@ -9,6 +9,12 @@
 
 # Keep JAudioTagger classes
 -keep class org.jaudiotagger.** { *; }
+-dontwarn org.jaudiotagger.**
+
+# Ignore missing AWT classes (JAudioTagger optional dependency, not used on Android)
+-dontwarn java.awt.**
+-dontwarn javax.swing.**
+-dontwarn javax.imageio.**
 
 # ===== Release Optimizations =====
 
