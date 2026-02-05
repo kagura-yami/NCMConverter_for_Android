@@ -1,0 +1,3 @@
+C:/Users/kagurayami/Documents/Code/Project/NCM2FLAC/app/.cxx/Debug/6n104x6a/armeabi-v7a/CMakeFiles/ncmdecrypt.dir
+C:/Users/kagurayami/Documents/Code/Project/NCM2FLAC/app/.cxx/Debug/6n104x6a/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/kagurayami/Documents/Code/Project/NCM2FLAC/app/.cxx/Debug/6n104x6a/armeabi-v7a/CMakeFiles/rebuild_cache.dir

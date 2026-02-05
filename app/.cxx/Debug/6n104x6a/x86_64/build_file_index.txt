@@ -1,0 +1,1 @@
+C:\Users\kagurayami\Documents\Code\Project\NCM2FLAC\app\src\main\cpp\CMakeLists.txt

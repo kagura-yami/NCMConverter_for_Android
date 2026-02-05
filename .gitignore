@@ -1,0 +1,21 @@
+# NCM Converter - Generated Files
+
+# Build outputs
+/build/
+/app/build/
+/.gradle/
+
+# IDE
+/.idea/
+*.iml
+
+# Local configuration
+local.properties
+
+# Keystore
+*.jks
+*.keystore
+
+# OS files
+.DS_Store
+Thumbs.db

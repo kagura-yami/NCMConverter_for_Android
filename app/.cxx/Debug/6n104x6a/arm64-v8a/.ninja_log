@@ -1,0 +1,4 @@
+# ninja log v5
+1	632	7920135515964459	CMakeFiles/ncmdecrypt.dir/jni_bridge.cpp.o	7688b16ad55da55
+104	1050	7920135520102909	CMakeFiles/ncmdecrypt.dir/ncm_decrypt.cpp.o	d4d860ecc1ad40d
+1051	1315	7920135522423402	C:/Users/kagurayami/Documents/Code/Project/NCM2FLAC/app/build/intermediates/cxx/Debug/6n104x6a/obj/arm64-v8a/libncmdecrypt.so	f29ebfe46534eeae

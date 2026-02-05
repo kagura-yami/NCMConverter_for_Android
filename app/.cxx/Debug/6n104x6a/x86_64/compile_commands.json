@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/kagurayami/Documents/Code/Project/NCM2FLAC/app/.cxx/Debug/6n104x6a/x86_64",
+  "command": "C:\\Users\\kagurayami\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android31 --sysroot=C:/Users/kagurayami/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dncmdecrypt_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -std=c++17 -o CMakeFiles\\ncmdecrypt.dir\\jni_bridge.cpp.o -c C:\\Users\\kagurayami\\Documents\\Code\\Project\\NCM2FLAC\\app\\src\\main\\cpp\\jni_bridge.cpp",
+  "file": "C:\\Users\\kagurayami\\Documents\\Code\\Project\\NCM2FLAC\\app\\src\\main\\cpp\\jni_bridge.cpp"
+},
+{
+  "directory": "C:/Users/kagurayami/Documents/Code/Project/NCM2FLAC/app/.cxx/Debug/6n104x6a/x86_64",
+  "command": "C:\\Users\\kagurayami\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android31 --sysroot=C:/Users/kagurayami/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dncmdecrypt_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -std=c++17 -o CMakeFiles\\ncmdecrypt.dir\\ncm_decrypt.cpp.o -c C:\\Users\\kagurayami\\Documents\\Code\\Project\\NCM2FLAC\\app\\src\\main\\cpp\\ncm_decrypt.cpp",
+  "file": "C:\\Users\\kagurayami\\Documents\\Code\\Project\\NCM2FLAC\\app\\src\\main\\cpp\\ncm_decrypt.cpp"
+}
+]
